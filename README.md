@@ -4,7 +4,7 @@ https://app.patika.dev/alierden
 ###### Başlangıçta dizimizi ikiye bölüyoruz. Bölünen dizileri tekrar bölüyoruz. Tek eleman kalana kadar İşleme devam ediyoruz.
 
 |                                                 |  |  |  |  |  |  |  |  |  |  |  |  |
-|-----------------------------------------------  |- |- |- |- |- |- |- |- |- |- |- |- |
+|-----------------------------------------------  |- |- |- |- |- |- |- |- |- |- |- |  |
 |Diziyi ikiye bölerek yeniden yazıyoruz           |  |  |  |16|21|11|8 |12|22|  |  |  |
 |                                                 |  |  |  |  |  |  |  |  |  |  |  |  |
 |Sol ve sağdaki dizileri tekrar ikiye bölüyoruz.  |  |  |16|21|11|  |  |8 |12|22|  |  |
